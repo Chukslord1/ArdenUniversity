@@ -1,2 +1,2 @@
 # ArdenUniversity
-IRepo to track and manage school work
+Repo to track and manage school work
